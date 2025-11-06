@@ -1,0 +1,17 @@
+scenario_id,season,start_date,end_date,home_sqft,occupancy,appliances,temps_csv,out_csv
+summer_p1,summer,2024-08-01,2024-08-30,2000,1,furnace+water_heater+stove,temps_san_antonio_aug_2024.csv,out_summer_p1.csv
+summer_p2,summer,2024-08-01,2024-08-30,2000,2,furnace+water_heater+stove+dryer,temps_san_antonio_aug_2024.csv,out_summer_p2.csv
+summer_p3,summer,2024-08-01,2024-08-30,2000,3,furnace+water_heater+stove,temps_san_antonio_aug_2024.csv,out_summer_p3.csv
+summer_p4,summer,2024-08-01,2024-08-30,2000,4,furnace+water_heater+stove,temps_san_antonio_aug_2024.csv,out_summer_p4.csv
+summer_p5,summer,2024-08-01,2024-08-30,2000,5,furnace+water_heater+stove+dryer,temps_san_antonio_aug_2024.csv,out_summer_p5.csv
+winter_1000,winter,2025-01-01,2025-01-30,1000,3,furnace+water_heater+stove,temps_san_antonio_jan_2025.csv,out_winter_1000.csv
+winter_1200,winter,2025-01-01,2025-01-30,1200,3,furnace+water_heater+stove+dryer,temps_san_antonio_jan_2025.csv,out_winter_1200.csv
+winter_1400,winter,2025-01-01,2025-01-30,1400,3,furnace+water_heater+stove,temps_san_antonio_jan_2025.csv,out_winter_1400.csv
+winter_1600,winter,2025-01-01,2025-01-30,1600,3,furnace+water_heater+stove+dryer,temps_san_antonio_jan_2025.csv,out_winter_1600.csv
+winter_1800,winter,2025-01-01,2025-01-30,1800,3,furnace+water_heater+stove,temps_san_antonio_jan_2025.csv,out_winter_1800.csv
+winter_2000,winter,2025-01-01,2025-01-30,2000,3,furnace+water_heater+stove+dryer,temps_san_antonio_jan_2025.csv,out_winter_2000.csv
+winter_2200,winter,2025-01-01,2025-01-30,2200,3,furnace+water_heater+stove,temps_san_antonio_jan_2025.csv,out_winter_2200.csv
+winter_2400,winter,2025-01-01,2025-01-30,2400,3,furnace+water_heater+stove+dryer,temps_san_antonio_jan_2025.csv,out_winter_2400.csv
+winter_2600,winter,2025-01-01,2025-01-30,2600,3,furnace+water_heater+stove,temps_san_antonio_jan_2025.csv,out_winter_2600.csv
+winter_2800,winter,2025-01-01,2025-01-30,2800,3,furnace+water_heater+stove+dryer,temps_san_antonio_jan_2025.csv,out_winter_2800.csv
+winter_3000,winter,2025-01-01,2025-01-30,3000,3,furnace+water_heater+stove,temps_san_antonio_jan_2025.csv,out_winter_3000.csv
